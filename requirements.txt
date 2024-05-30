@@ -1,0 +1,8 @@
+Flask
+keras
+Flask-Cors
+numpy
+Pillow
+scipy
+matplotlib
+six
